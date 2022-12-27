@@ -1,0 +1,30 @@
+.header {
+    padding: 10px;
+    text-align: left;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    
+  }
+  .h1{
+    btn:hover {background: #eee;}
+    
+
+  }
+  .btn {
+    text-align: right;
+    border: none;
+    background-color: inherit;
+    //padding: 14px 28px;
+    //font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #eee;}
+  
+  .home {color: black;}
+  .feeds {color: black;}
+  .register {color: black;}
+  
