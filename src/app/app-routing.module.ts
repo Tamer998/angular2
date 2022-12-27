@@ -16,11 +16,6 @@ component:FeedsComponent,
 
 {path:'register', 
 component:RegisterComponent,
-children:[{
-path:'Sign in',
-component:SignInComponent
-
-}]
 },
 {path:'sign-in', 
 component:SignInComponent,
